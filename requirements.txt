@@ -1,0 +1,10 @@
+opencv-python
+pandas
+google.generativeai
+python-dotenv
+easyocr
+langchain_google_genai
+streamlit
+json5
+pillow
+numpy
